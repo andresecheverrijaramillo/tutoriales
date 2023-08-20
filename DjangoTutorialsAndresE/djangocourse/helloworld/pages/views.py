@@ -31,9 +31,9 @@ class ContactPageView(TemplateView):
         context.update({
             "title": "Contact us - Online Store",
             "subtitle": "Contact us",
-            "mail": "testingpage@umail.org",
-            "address": "15Pl Andromeda Galaxy",
-            "phone": "+931 526 132 7368 "
+            "mail": "hollymollywackamolly@yahoo.org",
+            "address": "4813 Theodore Gateway Apt. 177",
+            "phone": "+876 578 654 1476 "
         })
         return context
 
